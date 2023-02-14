@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alpha-yalo-377722",
+  "private_key_id": "25018e06718b1a1842c697684a96d8639d3e9e25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxfkF2J4PUfcFJ\nDi3/snEGHBccM4MVOZqNtBjjRYT3chpn+b+roi/tqzrReyNiS7oiSaiTyl6Ix6g/\no+L0Fg5oEZLQisuRFJ8LpkFPdLrtbtGpynaC+Z0SxoQXzRCqq7kZkjBqXsgVNKTz\nhskDQA5Vwuztd3qBZ0H5k/nf/zvkwkh+ByX8QGiYy4xCPXGGhquY8JNlXztzJDRS\nJ9nZNofqhjPzdX0uzL8g2VL5xuOgNyex1GLmCvtfTIyBwj4tpbrX/bDJCTJ3v+XO\nMhHHoA365IzcipCplrcw3lRY44774frxmTPFcAHvJLFStlxu6MY80kZNwoxyx7W8\n4VesUrTDAgMBAAECggEACCst+gSufrwS6IPhxhyaRSDNyVGWwAY29k8evmVQxkam\nTQO+L4c+GXXUI1eHzrXitxvdvMNjfOX1XihkL2nQP/CZkj33p9HWQBXLb21ykJXR\n4sKV9//gh8zjlU3a9U2iERLdr2NttNtB2c5NM15x0wXTxNk98W2gO4R9Yc3SOqkk\n6PJcs0mIKqr3UDwpCii+cB/bV1pTvuWec6gq+BDievU77Er2mn9GSmSoE+h4ANXi\nmc6SwW7r+U4SB9h28sh0mUqd4R8DLyaTUbfMrRzugC2mExZ0iFUxoXTDMsYrc73q\nBxiamJ+fujvEv9DU3bLmp8uqY5YssADaow2mWLHu9QKBgQD+Wfvo9o6JzxeyAOyt\nNZC8cCZeiL4gpMNZv8bn1z9xOnSNbV2MWalfSEl1YARWRaOPE4Lbzf9KHv3MqOr0\nyQBkvbXaT9XBae2bBtu7uoxVUiJhrp+TzBdghEBEWy1BaZj+su0Ehuw8emPDlsgZ\nbm6vh6qpcsoFHQFFEAjfIYiGJQKBgQDzDu/31RvPLM6+CRlX3OPF/JWvsGtlJkFJ\nl96StatFSGuL01fyqmLa7aSnx4rczrRhb27Ggs5Eif99yGyRhTP8sU26DqAXomUg\n4h1qrKOE8y/2AxJGi/Yr98TOs74+uSPscS4O4i6pFWzhYyLwKSIvzUWxdWsDw3UH\nnkf/ZvpWxwKBgAILmTH7YZQMHUWqKj0OVDaftD9IXDcI/CUpnKDao0D21l8YxQrO\n4cTJYQXXmtFSyAjrgD7iPi5LZ4EQzqrfPuiQefjicXaXsnhvqq6sxlodSfd9Hv1i\nQ8Hb7mReU1PWVIufxrYlm5q05T56ZOuHbs5sidvI94TpAcybX2bj7yQdAoGBAJSS\nQOUBAyq0fPt0nGU0xJY1O1pVQJBnvei6SHbtTW/gQL0LxuqydBLWyJs2Qg+O2nvk\nnZYCRwtmPyIn7RVWktyXlKdyYTGRNrfO/6RBOwL9lAeRAQ7WZvehUE/5VwUILolM\n9ZZrc5IvYoqzCpw6yIbntv4ug+edBmBNxDy+Oa/pAoGAQQjmdS8ME8BeRDCdtfYJ\njgPVn0E1xgrMuXyOw938nXj9rwbnUeDyb+6GHikhpuK/mPkU7dZv3upgbEX0D90H\nZ5WCJz20D3lRpzpJ/GuL2KrdIWkcbZBN+/3JdL58rAdDVtTQPtsx/DeIq2R/KzfT\nwRqmLlXI4Z3dj5S/gjqV8no=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yaloalpha@alpha-yalo-377722.iam.gserviceaccount.com",
+  "client_id": "100922578188170458390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yaloalpha%40alpha-yalo-377722.iam.gserviceaccount.com"
+}
